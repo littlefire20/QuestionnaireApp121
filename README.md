@@ -1,3 +1,5 @@
 YouTube link to video on the Questionnaire App
 [https://youtu.be/U3TgffTIAKw](url)
 In the video I forgot to use the text to speech option, but I can confirm it works.
+#"What is your name?", "Generally speaking, how do you think AI will impact the future?", "Generally speaking, is AI beneficial or harmful to humanity?", "Do you think AI will replace human roles within society?", "Do you think the advancement of AI should be stopped or promoted?", "How do you think AI contributes to the education of students?", "Will AI be a benefit or detriment to societies economy?", "Do you think, if AI can enhance human abilities, we should use AI to enhance human abilities?" 
+These questions were made to obtain data on whether AI should be supported or discontinued based off ethics, and whether it benefits society or not. This data needs to be collected because of the need to know whether society should support and fund the creation and evolution of AI or they should try to prevent the evolution of AI.
